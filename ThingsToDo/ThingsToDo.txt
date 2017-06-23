@@ -1,0 +1,5 @@
+Things To do:
+- Setting a background image to the app
+- Timeout after 10:00 minutes
+- Sending an e-mail if timeout is reached
+- Showing the users who is using the software
