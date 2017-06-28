@@ -8,3 +8,4 @@ Things To do:
 	- Use Entity Framework 6
 		- Code first approach
 	- The users have to able to register, login and change password
+- Write simple test cases
