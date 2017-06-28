@@ -3,3 +3,8 @@ Things To do:
 - Timeout after 10:00 minutes
 - Sending an e-mail if timeout is reached
 - Showing the users who is using the software
+- Write a simple login form, which is lead to the Timer form
+	- Store data's in sql server
+	- Use Entity Framework 6
+		- Code first approach
+	- The users have to able to register, login and change password
