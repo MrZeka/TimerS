@@ -9,3 +9,4 @@ Things To do:
 		- Code first approach
 	- The users have to able to register, login and change password
 - Write simple test cases
+- Test
