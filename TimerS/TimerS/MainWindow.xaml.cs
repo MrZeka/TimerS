@@ -53,7 +53,7 @@ namespace TimerS
             DateTime Over = new DateTime(0001, 01, 01, 0, 0, 5);
             TextBoxT.Text = String.Format("{0:mm:ss}", Date);
             Date = Date.AddSeconds(1);
-            if(Date.CompareTo(Over) == 1)
+            if (Date.CompareTo(Over) == 1)
             {
                 OverTime.Content = "It is overtime";
             }
